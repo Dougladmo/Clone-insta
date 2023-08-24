@@ -1,4 +1,4 @@
-<h1 align="center"> Instagram Login </h1>
+<h1 align="center"> Instagram </h1>
 
 <br>
 
